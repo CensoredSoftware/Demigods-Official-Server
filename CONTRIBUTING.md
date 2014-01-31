@@ -10,6 +10,7 @@ Issues
   - If you need to have some sort of vauge issue like this, create a milestone instead and add smaller issues (that are more descriptive) to said milestone.
  - Always apply a label to an issue you create.
   - This is important, we need to stay organized if we are to get things done.
+  - You can (and should when applicable) apply more than one label to an issue.
   - Remember: Urgent =/= Important. Take care when deciding what to mark as urgent.
  - The person assigned to an issue is the lead on that issue.
   - Do not assign others unless you have talked to them about it beforehand.

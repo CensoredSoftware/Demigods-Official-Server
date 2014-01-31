@@ -29,13 +29,13 @@ If you are contributing promotional material, please understand the following:
  - The Artistic License DOES allow others to share your creation without giving you any notice (with restrictions).  If you are not okay with this, we may be able to work out a different license for your particular creation (it will be documented regardless).
  - Your creation will be used for promotion, this must be agreed upon (and publically announced) because of new FTC regulations.
  - If you do not agree to the above terms, we will not accept your creation.
+
+------
  
 We hope this clears things up for everyone.
 
- 
 Pay close attention to the commits in this repository, this agreement can, and probably will change in the future.
 
------
 
 Thanks,
 

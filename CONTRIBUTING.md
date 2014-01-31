@@ -3,6 +3,8 @@ Welcome to the team!
 
 Before you get started, you need to be aware of a few rules:
 
+Issues
+------
  - When creating an issue, make sure to be very specific about what it is you'd like to do/fix.
   - No vauge issues like "build spawn" or "fix titan world".
   - If you need to have some sort of vauge issue like this, create a milestone instead and add smaller issues (that are more descriptive) to said milestone.
@@ -17,6 +19,9 @@ Before you get started, you need to be aware of a few rules:
  - ALL ISSUES MUST USE PROPER MARKDOWN FORMATTING.
   - GitHub will give you links (almost everywhere you can use Markdown on the site) to a special page that teaches you the syntax.  It's not very hard to learn, the DG forums already uses it for the commenting system.
 
+
+Promotional Material
+--------------------
 If you are contributing promotional material, please understand the following:
 
  - You maintain the copyright of your creation, HOWEVER, you provide us (CensoredSoftware) with the ability to sublicense the work under our own license (the Artistic License Version 2).
@@ -30,7 +35,7 @@ We hope this clears things up for everyone.
  
 Pay close attention to the commits in this repository, this agreement can, and probably will change in the future.
 
-
+-----
 
 Thanks,
 

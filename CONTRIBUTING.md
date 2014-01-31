@@ -29,6 +29,7 @@ If you are contributing promotional material, please understand the following:
   - This exists for legal protection of both you, and us.
  - The Artistic License DOES allow others to share your creation without giving you any notice (with restrictions).  If you are not okay with this, we may be able to work out a different license for your particular creation (it will be documented regardless).
  - Your creation will be used for promotion, this must be agreed upon (and publically announced) because of new FTC regulations.
+  - The FTC regulation only applies to certain types of media, but you need to agree to this regardless.
  - If you do not agree to the above terms, we will not accept your creation.
 
 ------

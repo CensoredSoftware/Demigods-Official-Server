@@ -43,4 +43,5 @@ Thanks,
 
     CensoredSoftware
     Alex Bennett, Alexander Chauncey
-    January 31st, 2014
+
+LAST CHANGE: January 31st, 2014

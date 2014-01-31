@@ -25,7 +25,7 @@ Promotional Material
 --------------------
 If you are contributing promotional material, please understand the following:
 
- - You maintain the copyright of your creation, HOWEVER, you provide us (CensoredSoftware) with the ability to sublicense the work under our own license (the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/deed.en_US)).
+ - You maintain the copyright of your creation, HOWEVER, you provide us (CensoredSoftware) with the ability to sublicense the work under our own license (the [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/deed.en_US)).
   - This exists for legal protection of both you, and us.
  - The Creative Commons license DOES allow others to share your creation without giving you any notice (with restrictions).  If you are not okay with this, we may be able to work out a different license for your particular creation (it will be documented regardless).
  - Your creation will be used for promotion, this must be agreed upon (and publically announced) because of new FTC regulations.

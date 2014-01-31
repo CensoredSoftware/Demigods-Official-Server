@@ -35,7 +35,5 @@ Pay close attention to the commits in this repository, this agreement can, and p
 Thanks,
 
     CensoredSoftware
-    
     Alex Bennett, Alexander Chauncey
-    
     January 31st, 2014
